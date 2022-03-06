@@ -4,7 +4,7 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/designervoid/use-crypto-guides/README.md)
 
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/designervoid/use-crypto-guides/README.ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/designervoid/use-crypto-guides/blob/master/README.ru.md)
 
 ## CryptoBot
 
