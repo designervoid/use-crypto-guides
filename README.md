@@ -8,8 +8,15 @@
 
 ## CryptoBot
 
-`@CryptoBot` – buy, sell, store and pay with cryptocurrency right in Telegram without KYC
+`@CryptoBot` – buy, sell, store and pay with cryptocurrency right in Telegram without KYC.
 
 ## WalletBot
 
 `@wallet` - Use the @wallet bot as your regular cryptocurrency wallet. The wallet is linked to your Telegram account. Buy, send, receive, and exchange cryptocurrencies. KYC is needed for buying cryptocurrency from `Neocrypto`.
+
+## Exchange crypto for cash in Georgia
+
+1. Enter into `@wallet` or `@CryptoBot` in Telegram
+2. Buy BTC (Bitcoin) (working for `@wallet` and `@CryptoBot`)
+3. Transfer to the proposed wallet from the cryptomat
+4. Get cash
